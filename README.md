@@ -4,6 +4,7 @@ version of the ANSI C standard.  Tom Stockfisch reposted it to net.sources in 19
 question 17.25 of the comp.lang.c FAQ, can be ftp'ed from ftp.uu.net, file usenet/net.sources/ansi.c.grammar.Z.
 
 Jutta Degener, 1995 
+web site: https://www.lysator.liu.se/c/ANSI-C-grammar-y.html
 
 ------------
 
