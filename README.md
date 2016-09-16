@@ -3,7 +3,8 @@ In 1985, Jeff Lee published his Yacc grammar (which is accompanied by a matching
 version of the ANSI C standard.  Tom Stockfisch reposted it to net.sources in 1987; that original, as mentioned in the answer to 
 question 17.25 of the comp.lang.c FAQ, can be ftp'ed from ftp.uu.net, file usenet/net.sources/ansi.c.grammar.Z.
 
-Jutta Degener, 1995 
+Jutta Degener, 1995
+
 web site: https://www.lysator.liu.se/c/ANSI-C-grammar-y.html
 
 ------------
