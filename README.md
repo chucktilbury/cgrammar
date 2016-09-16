@@ -5,7 +5,7 @@ question 17.25 of the comp.lang.c FAQ, can be ftp'ed from ftp.uu.net, file usene
 
 Jutta Degener, 1995
 
-web site: https://www.lysator.liu.se/c/ANSI-C-grammar-y.html
+source web site: https://www.lysator.liu.se/c/ANSI-C-grammar-y.html
 
 ------------
 
